@@ -1,0 +1,60 @@
+.navbar{
+    width:1700px;
+    height:100px;
+    background-color: rgb(21, 21, 59);
+    margin-top: -26px;
+    margin-left: -10px;
+}
+.name{
+    text-align: center;
+    color:aliceblue;
+    padding-top: 30px;
+    font-style: bold;
+    margin-right: 250px;
+
+}
+.srch{
+      margin: 100px 10px 50px 600px;
+      padding: 10px 20px 10px 20px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+.button{
+    padding: 10px 15px 10px 15px;
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(21, 21, 59);
+    color: aliceblue;
+    font-style: bold;
+
+}
+
+.moviecards{
+         display:flex;
+         justify-content: center;
+         align-items: center;
+         flex-direction: column;
+}
+.card{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color:aliceblue;
+    background-color: rgb(21, 21, 59);
+    margin:20px;
+    padding:30px;
+    width:700px;
+}
+
+.movie-title{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:300px;
+    margin: 5px 150px;
+}
+
+.value{
+    font-size: 15px;
+    width: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
